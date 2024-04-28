@@ -6,5 +6,6 @@ This is my first Git Repository
   </head>
   <body>
     <h1>hello</h1>
+    <h2>Changes are done</h2>
   </body>
 </html>
